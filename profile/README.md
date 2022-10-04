@@ -8,7 +8,7 @@ Flarum is a technically excellent, open and extensible discussion platform.
 
 The commercial Flarum team builds extensions that are commissioned, or are built as an investment into the ecosystem. As we don't want to bloat the official Flarum GitHub team with repositories that aren't the responsibility of the open source team, we decided to keep them under a different name.
 
-**! Flarum is and will always be open source, free software. This GitHub does not represent or plan to create a commercial version of Flarum.**
+**⪢ Flarum is and will always be open source, free software. This GitHub does not represent or plan to create a commercial version of Flarum.**
 
 You can visit the official Flarum project at https://github.com/flarum.
 
